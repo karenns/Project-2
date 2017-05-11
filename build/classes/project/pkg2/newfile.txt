@@ -1,0 +1,9 @@
+Betty,44000
+Bob,48000
+Dilbert,98000
+Joseph,22300
+Nathan,90000
+Sally,91000
+Sam,87000
+Susan,8900
+Veronica,150000
